@@ -8,7 +8,7 @@ Merhaba, bu proje Türkçe Doğal Dil İşleme notebooklarına katkı ve örnek 
 Projede görebileceğiniz işlemler:
 - Veri yükleme
 - Veri ön işleme
-- TurkishReviews (kmkarakaya/turkishReviews-ds):, GPT-2 900M (cenkersisman/gpt2-turkish-900m), GPT-2 (ytu-ce-cosmos/turkish-gpt2), GPT-2 Large (ytu-ce-cosmos/turkish-gpt2-large), GPT-2 Medium (ytu-ce-cosmos/turkish-gpt2-medium) modellerinden oluşmakta olup Supervised-Fine-Tuning Training ile ince ayar yapıldıktan sonra bir sonraki kelimeyi tahmin etmek için kullanılmıştır.
+- TurkishReviews (kmkarakaya/turkishReviews-ds):, GPT-2 900M (cenkersisman/gpt2-turkish-900m), GPT-2 (ytu-ce-cosmos/turkish-gpt2), GPT-2 Large (ytu-ce-cosmos/turkish-gpt2-large), GPT-2 Medium (ytu-ce-cosmos/turkish-gpt2-medium) modellerinden oluşmakta olup Supervised-Fine-Tuning Training ve NEFTUNE ile ince ayar yapıldıktan sonra bir sonraki kelimeyi tahmin etmek için kullanılmıştır.
 - Plot
 
 ## 📜 Dataset Link
