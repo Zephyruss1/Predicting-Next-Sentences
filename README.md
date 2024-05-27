@@ -16,7 +16,7 @@ Projede görebileceğiniz işlemler:
 
 ## 💬 Notebook Link
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Zephyruss1/Predicting-Next-Sentences-SFT/blob/main/predicting_sentences.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Zephyruss1/Predicting-Next-Sentences/blob/main/predicting_sentences.ipynb)
 ## 📄 License
 
 [Apache License 2.0](https://github.com/Zephyruss1/Predicting-Next-Sentences-SFT/blob/main/LICENSE)
